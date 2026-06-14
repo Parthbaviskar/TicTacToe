@@ -424,7 +424,9 @@
 
   <!-- Setup Screen -->
   <div id="setup-screen">
-    <div class="logo">TIC TAC TOE By Hridhan</div>
+    <div class="logo">TIC TAC TOE 
+    niki
+    </div>
     <div class="tagline">Enter Player Names to Begin</div>
 
     <div class="player-inputs">
